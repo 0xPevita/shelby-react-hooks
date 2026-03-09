@@ -1,0 +1,10 @@
+{
+  "name": "shelby-react-hooks",
+  "version": "1.0.0",
+  "description": "Custom React hooks for Shelby Protocol dApps",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "@shelby-protocol/sdk": "latest",
+    "@aptos-labs/wallet-adapter-react": "^4.0.0"
+  }
+}
